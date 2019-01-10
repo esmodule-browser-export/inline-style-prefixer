@@ -1,5 +1,5 @@
 {
-  "name": "inline-style-prefixer",
+  "name": "inline-style-prefixer-esmodule-browser-export",
   "version": "5.0.2",
   "description": "Run-time Autoprefixer for JavaScript style objects",
   "module": "es/index.js",
@@ -43,7 +43,7 @@
     "rootDir": "modules"
   },
   "dependencies": {
-    "css-in-js-utils": "^2.0.0"
+    "css-in-js-utils-esmodule-browser-export": "^3.0.3"
   },
   "devDependencies": {
     "babel": "^6.5.2",

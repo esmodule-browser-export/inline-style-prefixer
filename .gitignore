@@ -24,6 +24,4 @@ npm-debug.log
 **/coverage
 _book
 .vscode
-lib
-es
-modules/data.js
+.idea
